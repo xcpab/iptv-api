@@ -1,3 +1,31 @@
 # 这是EPG订阅列表，用于生成M3U结果频道菜单信息
 # This is the EPG subscription list used to generate M3U result channel menu information
-http://e.erw.cc/e.xml.gz
+https://raw.githubusercontent.com/sggc/SD-EPG/refs/heads/main/EPG/sggc-desc.xml.gz
+https://raw.githubusercontent.com/sumingyd/xml/main/epg.xml
+https://raw.githubusercontent.com/plsy1/epg/main/e/seven-days.xml.gz
+https://raw.githubusercontent.com/Li-Xingyu/ZJ_IPTV_EPG/main/epg.xml
+https://raw.githubusercontent.com/zzq1234567890/epg/main/swepg.xml.gz
+https://gitee.com/taksssss/tv/raw/main/epg/51zmte1.xml.gz
+https://gitee.com/taksssss/tv/raw/main/epg/51zmte2.xml.gz
+http://epg.51zmt.top:8000/e1.xml.gz
+https://epg.zsdc.eu.org/t.xml
+https://epg.webnet.cloudns.pro/epg/epg.xml.gz
+http://liliu.serv00.net/epg/all.xml.gz
+https://epg.pw/xmltv/epg_CN.xml.gz
+https://epg.pw/xmltv/epg_TW.xml.gz
+https://epg.pw/xmltv/epg_HK.xml.gz
+https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz
+https://gitee.com/gsls200808/xmltvepg/raw/master/e7.xml.gz
+https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz
+https://gitee.com/taksssss/tv/raw/main/epg/epgpw_hk.xml.gz
+https://gitee.com/taksssss/tv/raw/main/epg/epgpw_tw.xml.gz
+https://raw.githubusercontent.com/zsz520/epg/main/bjiptv.xml.gz
+https://raw.githubusercontent.com/zsz520/epg/main/chuanliu.xml.gz
+https://raw.githubusercontent.com/zsz520/epg/main/cqcu.xml.gz
+https://raw.githubusercontent.com/zsz520/epg/main/cqiptv.xml.gz
+https://raw.githubusercontent.com/zsz520/epg/main/cqlaidian.xml.gz
+https://raw.githubusercontent.com/zsz520/epg/main/fjyd.xml.gz
+https://raw.githubusercontent.com/zsz520/epg/main/migu.xml.gz
+https://epg.tv.darwinchow.com/epg.xml
+https://epg.136605.xyz/9days.xml
+https://raw.githubusercontent.com/peterHchina/iptv/main/EPG.xml
